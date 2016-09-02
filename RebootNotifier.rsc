@@ -1,4 +1,4 @@
-#Script to notifier administrator of router reboot and host availability
+#Script to notify administrator of router reboot and host availability
 
 #Set administrator email address
 :local adminEmail "bob@example.com";
